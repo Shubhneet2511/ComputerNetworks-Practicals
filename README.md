@@ -2,7 +2,7 @@
 
 **Repository**: [github.com/Shubhneet2511/ComputerNetworks-Practicals](https://github.com/Shubhneet2511/ComputerNetworks-Practicals)
 
-**Author**: Shubhneet Chauhan (GitHub: [@Shubhneet2511](https://github.com/Shubhneet2511))  
+**Author**: Shubhneet Chauhan  (GitHub: [@Shubhneet2511](https://github.com/Shubhneet2511))  
 **Instructor / Evaluator**: `anirudhg@srmist.edu.in`  
 
 ---
