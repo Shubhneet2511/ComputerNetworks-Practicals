@@ -25,7 +25,6 @@
    - [Router Configurations (AS 100 & AS 200)](#5-router-configurations-1)
    - [BGP Summary & Verification](#6-bgp-summary--verification)
    - [Packet Tracer File](#7-packet-tracer-file-1)
-3. [Summary & Conclusions](#summary--conclusions)
 
 ---
 
